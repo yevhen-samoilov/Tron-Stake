@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503909555305",
+    "project_id": "tron-stake",
+    "storage_bucket": "tron-stake.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503909555305:android:62e59024d157875adb56f8",
+        "android_client_info": {
+          "package_name": "tron.stake.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS46jOcGNF56wGhH8QB3WheWzSRhQkxB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
