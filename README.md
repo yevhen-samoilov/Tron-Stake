@@ -1,6 +1,23 @@
-# tron_stake
+# TRON Stake
 
-A new Flutter project.
+TRON Stake is a decentralized application (DApp) for staking and managing TRX tokens on the TRON network. The application provides a user-friendly interface for interacting with the TRON blockchain.
+
+## Features
+
+- 🔐 Create and import TRON wallets
+- 💰 Stake TRX to obtain Energy or Bandwidth
+- 🗳️ Participate in Super Representatives voting
+- 📊 Monitor balance and rewards
+- 🔄 Withdraw earned rewards
+- 📱 Support for mobile devices and web version
+
+## Technology Stack
+
+- Flutter/Dart for cross-platform development
+- TRON blockchain API for network interaction
+- Provider for state management
+- Multi-language localization
+- Adaptive design
 
 ## Getting Started
 
